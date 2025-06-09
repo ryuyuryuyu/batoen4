@@ -220,7 +220,7 @@
         "url": "https://pokeapi.co/api/v2/pokemon/25/",
         "type": ["でんき"],
         "baseStats": {
-            "hp": 120
+            "hp": 100
         },
         "moveset": {
             "1": "ボルテッカー　●に２０ダメージ。水、飛行に１０ダメージ。",
