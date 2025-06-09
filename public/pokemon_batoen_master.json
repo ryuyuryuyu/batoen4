@@ -281,7 +281,8 @@
         },
         "evolutions": [
             {
-                "after": "ゴースト"
+                "before": "ゴース",
+                "after": "ゲンガー"
             }
         ]
     },
@@ -304,7 +305,7 @@
         },
         "evolutions": [
             {
-                "after": "ゴースト"
+                "before": "ゴースト"
             }
         ]
     },
