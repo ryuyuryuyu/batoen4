@@ -265,7 +265,7 @@
     {
         "id": 93,
         "is_seede": false,
-        "name": "ゴース",
+        "name": "ゴースト",
         "url": "https://pokeapi.co/api/v2/pokemon/93/",
         "type": ["ゴースト", "どく"],
         "baseStats": {
